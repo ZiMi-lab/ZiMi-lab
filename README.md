@@ -20,6 +20,6 @@ Další projekty a experimenty najdeš níže v sekci **Pinned repositories** �
 ## 📫 Kontakt
 
 - Web: [https://zimacek.cz](https://zimacek.cz)
-- LinkedIn: [linkedin.com/in/zimacek/](https://linkedin.com/in/zimacek/)
+- LinkedIn: [https://linkedin.com/in/zimacek/](https://linkedin.com/in/zimacek/)
 
 💬 Neváhej mě kontaktovat nebo napsat feedback k jakémukoliv repozitáři.
