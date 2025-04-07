@@ -1,6 +1,6 @@
-# 👋 Ahoj, jsem Tomáš Zimáček aka @ZiMi-lab
+# 👋 Ahoj, jsem Tomáš Zimáček (@ZiMi-lab)
 
-Věnuji se chytré domácnosti, Home Labu, umělé inteligenci a kybernetické bezpečnosti. Na GitHubu sdílím své poznámky, návody, konfigurace a osobní projekty.
+Technologický nadšenec s více než 15 lety zkušeností v IT, inovacích a bezpečnosti. Zde na GitHubu sdílím své experimenty, poznámky, konfigurace a projekty z oblastí jako Smart Home, Home Lab, AI a kyberbezpečnost.
 
 ## 🧠 Oblasti zájmu
 
